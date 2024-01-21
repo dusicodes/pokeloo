@@ -12,7 +12,7 @@ function LandingHeader() {
       <nav className="flex  justify-center">
         <ul className=" flex flex-row justify-between text-lg [&>li>a]:transition-colors [&>li>a]:duration-500 [&>li>a]:font-medium [&>li>a]:px-2 [&>li>a]:inline-block [&>li>a]:py-2">
           <li className=" ">
-            <a href="#">Home</a>
+            <a href="/">Home</a>
           </li>
           <li>
             <a href="#">Features</a>

@@ -47,9 +47,11 @@
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@heroicons/react": "2.0.18",
+    "axios": "^1.6.5",
     "framer-motion": "^10.18.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.21.3"
   },
   "devDependencies": {
     "@commitlint/cli": "17.4.2",
