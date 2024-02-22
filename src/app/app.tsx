@@ -1,5 +1,5 @@
-import HomePage from "components/HomePage";
-import Pokedex from "components/Pokedex";
+import HomePage from "../pages/HomePage";
+import Pokedex from "../pages/Pokedex";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {

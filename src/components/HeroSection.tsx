@@ -17,7 +17,7 @@ function HeroSection() {
             variant="outline"
             w={200}
           >
-            Find
+            Quick Find
           </Button>
           <Button colorScheme="grey" variant="outline" w={200}>
             Browse

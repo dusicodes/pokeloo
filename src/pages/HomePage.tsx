@@ -3,10 +3,10 @@ import LandingHeader from "components/LandingHeader";
 
 function HomePage() {
   return (
-    <>
+    <section>
       <LandingHeader />
       <HeroSection />
-    </>
+    </section>
   );
 }
 

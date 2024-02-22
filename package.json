@@ -43,15 +43,19 @@
     "postinstall": "husky install"
   },
   "dependencies": {
+    "@ant-design/web3": "^1.4.3",
+    "@ant-design/web3-wagmi": "^2.2.2",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@heroicons/react": "2.0.18",
+    "antd": "^5.13.3",
     "axios": "^1.6.5",
     "framer-motion": "^10.18.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "^6.21.3"
+    "react-router-dom": "^6.21.3",
+    "wagmi": "^2.5.5"
   },
   "devDependencies": {
     "@commitlint/cli": "17.4.2",
